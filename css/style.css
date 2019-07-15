@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+header {
+  width: 100%;
+}
+.containet {
+  height: 50px;
+  background-color:cornflowerblue;
+  margin: 5px 0;
+  
+}
+.containet h2 {
+  text-align: center;
+  padding: 10px 0;
+}
+/* DOP1 */
+.dop1 {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+}
+.wrapper {
+  
+  margin: 0 auto;
+}
+.div1 {
+  width: 54%;
+  background-color: aquamarine;
+  padding: 10px;
+}
+
+.div2 {
+  width: 21%;
+  background-color: brown;
+  padding: 10px;
+}
+.div3 {
+  width: 21%;
+  background-color: yellowgreen;
+  padding: 10px;
+}
+
